@@ -6,17 +6,11 @@ This project aims to analyze and predict rental prices for residential units acr
 
 ### Description
 
-In 2024, rental prices in Canada show significant variation driven by factors such as location, property type, and the number of bedrooms. Major urban centers like Toronto and Vancouver command higher rents due to elevated demand and limited supply, with one-bedroom apartments averaging between $1,800 and $2,500. Conversely, smaller cities and rural areas present more affordable options.
-
-  - Exploratory Data Analysis (EDA)
-  - Data Cleaning and Preparation
-  - Feature Engineering
-  - Model Comparison and Validation
-  - Predictions using the final model
+In 2024, rental prices in Canada show significant variation driven by factors such as location, property type, and the number of bedrooms. Major urban centers like Toronto and Vancouver command higher rents due to elevated demand and limited supply, with one-bedroom apartments averaging between $1,800 and $2,500. Conversely, smaller cities and rural areas present more affordable options. 
 
 ### Objectives
 
-  - Load and Inspect Data: Understand the dataset structure and contents. The dataset is loaded into a Pandas DataFrame,        and the initial structure and contents of the data are examined.
+  - Load and Inspect Data: The dataset is loaded into a Pandas DataFrame, and the initial structure and contents of the data are examined.
   - Exploratory Data Analysis (EDA): The dataset is thoroughly explored to understand the relationships between the features and the target variable (rental price). This includes analyzing the distribution of variables, identifying missing values, and examining the correlations between different features.
   - Data Cleaning and Preparation: The dataset is cleaned and preprocessed, including handling missing values, converting data types, and encoding categorical variables as needed.
   - Model Development: Multiple regression models, such as Linear Regression, Lasso Regression, and Ridge Regression, are developed and compared to find the one that predicts rental prices most accurately.
