@@ -47,13 +47,16 @@ The following libraries are used in this project:
   - numpy for numerical operations
   - scikit-learn for machine learning models
   - matplotlib and seaborn for data visualization
+    
+You can install these packages using pip:
+
+pip install pandas numpy matplotlib seaborn ...
 
 ### Getting Started
-  1. Clone the Repository: git clone [https://github.com/Waliid18/Regression_Project]
-  2. Install the necessary packages using pip: pip install -r requirements.txt
-  3. Run the Jupyter Notebook: Launch the notebook to explore the analysis and predictions:
+  1. Clone the Repository: git clone https://github.com/Waliid18/Regression_Project
+  2. Run the Jupyter Notebook: Launch the notebook to explore the analysis and predictions:
      jupyter notebook Regression_Project_1.ipynb
-### Conclusion
+### Summary
 This project provides a comprehensive analysis of rental prices across Canada in 2024 and the development of predictive models to estimate these prices based on various features. The insights gained from this study can be valuable for various stakeholders, such as real estate investors, policymakers, and renters, in understanding the factors that influence rental prices and making informed decisions.
 
 The project showcases the application of data science techniques, including data exploration, feature engineering, model selection, and model evaluation, to solve a real-world problem in the residential rental market. The results of this project can be used to inform decision-making, guide policy interventions, and contribute to a better understanding of the dynamics shaping the Canadian rental landscape.
